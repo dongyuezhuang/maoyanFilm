@@ -4,7 +4,7 @@ class Cinema extends Component {
     render() {
         return (
             <div>
-                影院
+                
             </div>
         );
     }
