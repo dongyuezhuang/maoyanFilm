@@ -25,6 +25,7 @@ class Cinema extends Component {
     }
     render() {
         return (
+<<<<<<< HEAD
             <Cin>
                 <Div>
                     <h2>影院</h2>
@@ -124,6 +125,11 @@ class Cinema extends Component {
                     </div>
                 </Main>
             </Cin>
+=======
+            <div>
+                
+            </div>
+>>>>>>> xiao
         );
     }
 }
